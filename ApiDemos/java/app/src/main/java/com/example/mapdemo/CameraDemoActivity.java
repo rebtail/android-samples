@@ -60,7 +60,7 @@ public class CameraDemoActivity extends AppCompatActivity implements
 
     public static final CameraPosition BONDI =
             new CameraPosition.Builder().target(new LatLng(-33.891614, 151.276417))
-                    .zoom(15.5f)
+                    .zoom(22.11f)
                     .bearing(300)
                     .tilt(50)
                     .build();
